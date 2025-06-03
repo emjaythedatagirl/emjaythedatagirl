@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm OGBU MARYJANE</h1>
 <h3 align="center">A passionate Data analyst</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emjaythedatagirl" alt="emjaythedatagirl" /></a> </p>
 
 - 🌱 I’m currently learning **SQL**
 
@@ -22,6 +21,9 @@
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emjaythedatagirl" alt="emjaythedatagirl" /></a> </p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emjaythedatagirl&show_icons=true&locale=en" alt="emjaythedatagirl" /></p>
 
