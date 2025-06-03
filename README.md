@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm OGBU MARYJANE</h1>
+<h3 align="center">A passionate Data analyst</h3>
 
-<!--
-**emjaythedatagirl/emjaythedatagirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emjaythedatagirl" alt="emjaythedatagirl" /></a> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **SQL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Excel,Power Bi**
+
+- 📫 How to reach me **maryjaneogbu@gmail.com**
+
+- ### 🌱 Goals for 2025
+- ✅ Build and showcase real-world data projects
+- ✅ Improve storytelling with data
+- ✅ Get an internship or entry-level role in data analytics 
+
+
+<h3 align="left">Connect with me:</h3>
+🔗 [LinkedIn](https://www.linkedin.com/in/ogbumaryjane)
+
+<h3 align="left">Tools and Technologies:</h3>
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emjaythedatagirl&show_icons=true&locale=en" alt="emjaythedatagirl" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emjaythedatagirl&" alt="emjaythedatagirl" /></p>
+
