@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Data analyst</h3>
 
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Excel,Power Bi**
+- 💬 Ask me about **Excel,Power Bi,SQL**
 
 - 📫 How to reach me **maryjaneogbu@gmail.com**
 
@@ -21,6 +21,8 @@
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emjaythedatagirl" alt="emjaythedatagirl" /></a> </p>
 
